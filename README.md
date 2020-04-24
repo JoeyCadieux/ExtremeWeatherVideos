@@ -1,2 +1,0 @@
-# ExtremeWeatherVideos
-Created with CodeSandbox
